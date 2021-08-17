@@ -1,0 +1,30 @@
+{
+        "employees":
+        [
+            {
+            "id":1,
+            "name":"Lavanya",
+            "gender":"female",
+            "email?":"lavekolli33@gmail.com",
+            "phoneNumber":"343434343434",
+            "contactPreference":"email",
+            "dateOfBirth":"09/08/2019",
+            "department":"cse",
+            "isActive":true,
+            "photoPath?":"assets/images/img1.jpg"
+             },
+             {
+                "id":2,
+                "name":"kolli",
+                "gender":"female",
+                "email?":"lavekolli33@gmail.com",
+                "phoneNumber":"343434343434",
+                "contactPreference":"email",
+                "dateOfBirth":"09/08/2019",
+                "department":"ece",
+                "isActive":true,
+                "photoPath?":"assets/images/img1.jpg"
+            }
+
+        ]
+}
